@@ -1,0 +1,43 @@
+p{
+  margin:0px;
+  font-family: Arial;
+}
+.video-title{
+  font-size: 30px;
+  font-weight: bold;
+  text-align:left;
+}
+
+.video-sub,.video-sub1{
+  font-weight: small bold;
+  color: rgb(95, 93, 93);
+  font-weight:10px;
+  margin-top: 10px;
+  line-height: 22px;
+}
+  .video-description{
+  font-weight: small bold;
+  color: rgb(95, 93, 93);
+  font-weight:10px;
+  margin-top: 10px;
+  line-height: 22px;
+  margin-bottom: 100px;
+  }
+
+  .video-link{
+  color:white;
+  font-size: 14px;
+  background: red ;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  }
+
+  .span-ex{
+    margin-left: 5px;
+  }
+  .span-ex:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+  }
